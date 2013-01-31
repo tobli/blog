@@ -1,4 +1,4 @@
-Prose Bootstrap
+Infrequency
 =================
 
-A minimal template to get started with Jekyll and Prose.
+A personal blog - powered by Jekyll and Prose.
